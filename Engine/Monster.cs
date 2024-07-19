@@ -15,5 +15,15 @@ namespace Engine
         public int MaximumDamage { get; set; }
         public int RewardExperiencePoints { get; set; }
         public int RewardGold { get; set; }
+
+        //constructor code for the Monster class, defining the values and base() to pass back to the base class
+        public Monster(int id, string name, int maximumDamage, int rewardExperiencePoints, int rewardGold, int currentHitPoints, int maximumHitPoints) : base(currentHitPoints, maximumHitPoints)
+        {
+            ID = id;
+            Name = name;
+            MaximumDamage = maximumDamage;
+            RewardExperiencePoints = rewardExperiencePoints;
+            RewardGold = rewardGold;
+        }
     }
 }

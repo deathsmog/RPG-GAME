@@ -11,5 +11,12 @@ namespace Engine
     {
         public int MaximumHitPoints { get; set; }
         public int CurrentHitPoints { get; set; }
+
+        //constructor code for living creatures defining the values
+        public LivingCreature(int currentHitPoints, int maximumHitPoints)
+        {
+            CurrentHitPoints = currentHitPoints;
+            MaximumHitPoints = maximumHitPoints;
+        }
     }
 }

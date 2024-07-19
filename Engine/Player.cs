@@ -14,5 +14,13 @@ namespace Engine
         public int ExperiencePoints { get; set; }
         public int Level { get; set; }
 
+        //constructor code for the Player class, defining the values and base() to pass back to the base class
+        public Player(int currentHitPoints, int maximumHitPoints, int gold, int experiencePoints, int level) : base(currentHitPoints, maximumHitPoints)
+        {
+            Gold = gold;
+            ExperiencePoints = experiencePoints;
+            Level = level;
+        }
+
     }
 }
