@@ -24,6 +24,12 @@ namespace SuperAdventure
             lblGold.Text = _player.Gold.ToString();
             lblExperience.Text = _player.ExperiencePoints.ToString();
             lblLevel.Text = _player.Level.ToString();
+
+            //Location object saved to variable "location" with values assigned
+            Location location = new Location(1, "Home", "This is your house.");
+            location.ID = 1;
+            location.Name = "Home";
+            location.Description = "This is your house.";
         }
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Engine
 {
-    //Item Class created as public for program wide use
+    //Item Class created as public for program wide use. Will be used as parent class.
     public class Item
     {
         public int ID { get; set; }

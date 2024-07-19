@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\deathsmog\\source\\repos\\Engine\\Engine.csproj": {}
+    "C:\\Users\\deathsmog\\Source\\Repos\\RPG-GAME\\Engine\\Engine.csproj": {}
   },
   "projects": {
-    "C:\\Users\\deathsmog\\source\\repos\\Engine\\Engine.csproj": {
+    "C:\\Users\\deathsmog\\Source\\Repos\\RPG-GAME\\Engine\\Engine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\deathsmog\\source\\repos\\Engine\\Engine.csproj",
+        "projectUniqueName": "C:\\Users\\deathsmog\\Source\\Repos\\RPG-GAME\\Engine\\Engine.csproj",
         "projectName": "Engine",
-        "projectPath": "C:\\Users\\deathsmog\\source\\repos\\Engine\\Engine.csproj",
+        "projectPath": "C:\\Users\\deathsmog\\Source\\Repos\\RPG-GAME\\Engine\\Engine.csproj",
         "packagesPath": "C:\\Users\\deathsmog\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\deathsmog\\source\\repos\\Engine\\obj\\",
+        "outputPath": "C:\\Users\\deathsmog\\Source\\Repos\\RPG-GAME\\Engine\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\deathsmog\\AppData\\Roaming\\NuGet\\NuGet.Config",

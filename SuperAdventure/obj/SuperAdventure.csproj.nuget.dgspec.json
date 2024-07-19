@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\deathsmog\\source\\repos\\SuperAdventure\\SuperAdventure.csproj": {}
+    "C:\\Users\\deathsmog\\Source\\Repos\\RPG-GAME\\SuperAdventure\\SuperAdventure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\deathsmog\\source\\repos\\Engine\\Engine.csproj": {
+    "C:\\Users\\deathsmog\\Source\\Repos\\RPG-GAME\\Engine\\Engine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\deathsmog\\source\\repos\\Engine\\Engine.csproj",
+        "projectUniqueName": "C:\\Users\\deathsmog\\Source\\Repos\\RPG-GAME\\Engine\\Engine.csproj",
         "projectName": "Engine",
-        "projectPath": "C:\\Users\\deathsmog\\source\\repos\\Engine\\Engine.csproj",
+        "projectPath": "C:\\Users\\deathsmog\\Source\\Repos\\RPG-GAME\\Engine\\Engine.csproj",
         "packagesPath": "C:\\Users\\deathsmog\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\deathsmog\\source\\repos\\Engine\\obj\\",
+        "outputPath": "C:\\Users\\deathsmog\\Source\\Repos\\RPG-GAME\\Engine\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\deathsmog\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -67,14 +67,14 @@
         }
       }
     },
-    "C:\\Users\\deathsmog\\source\\repos\\SuperAdventure\\SuperAdventure.csproj": {
+    "C:\\Users\\deathsmog\\Source\\Repos\\RPG-GAME\\SuperAdventure\\SuperAdventure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\deathsmog\\source\\repos\\SuperAdventure\\SuperAdventure.csproj",
+        "projectUniqueName": "C:\\Users\\deathsmog\\Source\\Repos\\RPG-GAME\\SuperAdventure\\SuperAdventure.csproj",
         "projectName": "SuperAdventure",
-        "projectPath": "C:\\Users\\deathsmog\\source\\repos\\SuperAdventure\\SuperAdventure.csproj",
+        "projectPath": "C:\\Users\\deathsmog\\Source\\Repos\\RPG-GAME\\SuperAdventure\\SuperAdventure.csproj",
         "packagesPath": "C:\\Users\\deathsmog\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\deathsmog\\source\\repos\\SuperAdventure\\obj\\",
+        "outputPath": "C:\\Users\\deathsmog\\Source\\Repos\\RPG-GAME\\SuperAdventure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\deathsmog\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -91,8 +91,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\deathsmog\\source\\repos\\Engine\\Engine.csproj": {
-                "projectPath": "C:\\Users\\deathsmog\\source\\repos\\Engine\\Engine.csproj"
+              "C:\\Users\\deathsmog\\Source\\Repos\\RPG-GAME\\Engine\\Engine.csproj": {
+                "projectPath": "C:\\Users\\deathsmog\\Source\\Repos\\RPG-GAME\\Engine\\Engine.csproj"
               }
             }
           }

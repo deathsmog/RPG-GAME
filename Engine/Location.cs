@@ -12,5 +12,13 @@ namespace Engine
         public int ID { get; set; }
         public string Name { get; set; }
         public string Description { get; set; }
+
+        // Constructor code, public use, Location is the name. id, name and description parameters ready for values of the set datatype
+        public Location(int id, string name, string description)
+        {
+            ID = id;
+            Name = name;
+            Description = description;
+        }
     }
 }
