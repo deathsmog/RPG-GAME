@@ -26,5 +26,10 @@ namespace SuperAdventure
             location.Name = "Home";
             location.Description = "This is your house.";
         }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
